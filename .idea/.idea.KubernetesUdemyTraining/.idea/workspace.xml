@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc732486-e5ff-492f-b78c-52f142bb3ade" name="Default Changelist" comment="" />
+    <list default="true" id="fc732486-e5ff-492f-b78c-52f142bb3ade" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/Chapter5/exercise-activemq-pod.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/Chapter5/first-pod.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/Chapter5/pods.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/Chapter5/services.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/Chapter5/webapp-service.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/KubernetesTraining.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/ConsoleApp1.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/ConsoleApp1.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/ConsoleApp1.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/Debug/netcoreapp2.2/ConsoleApp1.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/Debug/netcoreapp2.2/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/Debug/netcoreapp2.2/KubernetesTraining.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/Debug/netcoreapp2.2/KubernetesTraining.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/Debug/netcoreapp2.2/KubernetesTraining.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/Debug/netcoreapp2.2/KubernetesTraining.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/KubernetesTraining.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/KubernetesTraining.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/KubernetesTraining.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesTraining/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KubernetesUdemyTraining.sln" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KubernetesTraining/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="153">
               <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <marker date="1558681180414" expanded="true" signature="36:177" ph="{...}" />
@@ -46,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/KubernetesTraining/Chapter5/exercise-activemq-pod.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -54,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KubernetesTraining/Chapter5/services.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="340">
               <caret line="20" selection-start-line="20" selection-end-line="37" selection-end-column="16" />
             </state>
           </provider>
@@ -63,13 +88,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KubernetesTraining/Chapter5/pods.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
+            <state relative-caret-position="646">
               <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/KubernetesTraining/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -91,12 +119,12 @@
     <option name="width" value="1683" />
     <option name="height" value="860" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -109,17 +137,12 @@
               <item name="KubernetesUdemyTraining" type="24d0babc:SolutionExplorerModelNode" />
               <item name="KubernetesTraining" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="KubernetesUdemyTraining" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="KubernetesTraining" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Chapter5" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -175,11 +198,12 @@
       <workItem from="1558681162825" duration="87000" />
       <workItem from="1558681273038" duration="1747000" />
       <workItem from="1558684322295" duration="9433000" />
+      <workItem from="1558936877209" duration="259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11267000" />
+    <option name="totallyTimeSpent" value="11526000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -193,7 +217,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -237,7 +261,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/KubernetesTraining/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="153">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
             <marker date="1558681180414" expanded="true" signature="36:177" ph="{...}" />
@@ -261,24 +285,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KubernetesTraining/Chapter5/pods.yaml">
+    <entry file="file://$PROJECT_DIR$/KubernetesTraining/Chapter5/services.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="37" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KubernetesTraining/Chapter5/services.yaml">
+    <entry file="file://$PROJECT_DIR$/KubernetesTraining/Chapter5/pods.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="20" selection-start-line="20" selection-end-line="37" selection-end-column="16" />
+        <state relative-caret-position="646">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/KubernetesTraining/Chapter5/exercise-activemq-pod.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
