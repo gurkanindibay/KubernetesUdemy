@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KubernetesTraining", "KubernetesTraining\KubernetesTraining.csproj", "{BA6ABCD8-0A42-4F8D-997E-3E2599A1967D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6ABCD8-0A42-4F8D-997E-3E2599A1967D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6ABCD8-0A42-4F8D-997E-3E2599A1967D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6ABCD8-0A42-4F8D-997E-3E2599A1967D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6ABCD8-0A42-4F8D-997E-3E2599A1967D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
